@@ -32,24 +32,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavosouzaz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosouzaz&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true" />
-</div>
-
-### 🏆 Troféus
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=gustavosouzaz&theme=dark&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=ED8B00&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gustavosouzaz&color=ED8B00&style=flat&label=Profile+Views)
 
 </div>
