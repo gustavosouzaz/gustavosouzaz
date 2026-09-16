@@ -1,49 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:6DB33F,100:ED8B00&height=200&section=header&text=Gustavo%20Souza&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+# Gustavo Souza
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Back-end+Developer;Java;Java+%26+Spring+Boot;Kotlin" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=420&lines=Back-end+Developer;Java+%C2%B7+Spring+Boot;Rio+de+Janeiro%2C+Brasil" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosouzaz/)
 
 </div>
 
----
+<br>
 
-### 🔄 Sobre Mim
+### Sobre
 
-- 📍 Moro no Rio de Janeiro, Brasil.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário IBMR.
-- ☕ Foco em Back-end com Java & Spring Boot.
-- 🌱 Nativo em português.
+Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário IBMR.
+Foco em back-end com Java e Spring Boot, com passagem por desenvolvimento mobile em Kotlin.
 
-### 🔗 Redes Sociais
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosouzaz/)
+### Stack
 
-### 💻 Tecnologias
+`Java` · `Spring Boot` · `Kotlin` · `MySQL` · `MongoDB`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,kotlin&theme=dark" />
-</div>
+<br>
 
----
-
-### 📊 GitHub Stats
+### Atividade
 
 <div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavosouzaz&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavosouzaz&theme=github_dark" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=gustavosouzaz&theme=dark&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gustavosouzaz&color=ED8B00&style=flat&label=Profile+Views)
+<img src="https://streak-stats.demolab.com?user=gustavosouzaz&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" />
 
 </div>
