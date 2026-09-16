@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavosouzaz&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosouzaz&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavosouzaz&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavosouzaz&theme=github_dark" />
 </div>
 
 <div align="center">
