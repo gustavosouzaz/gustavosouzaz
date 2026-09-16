@@ -12,7 +12,7 @@
 
 - 📍 Moro no Rio de Janeiro, Brasil.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário IBMR.
-- ☕ Javeiro.
+- ☕ Javeiro — Java & Spring Boot no dia a dia.
 - 🌱 Nativo em português e inglês intermediário para conversação.
 
 ### 🔗 Redes Sociais
