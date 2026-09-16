@@ -12,8 +12,8 @@
 
 - 📍 Moro no Rio de Janeiro, Brasil.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário IBMR.
-- ☕ Foco em Back-end com Java & Spring Boot.
-- 🌱 Nativo em português.
+- ☕ Javeiro.
+- 🌱 Nativo em português e inglês intermediário para conversação.
 
 ### 🔗 Redes Sociais
 
