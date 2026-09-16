@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:ED8B00&height=180&section=header&text=Gustavo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:6DB33F,100:ED8B00&height=200&section=header&text=Gustavo%20Souza&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Back-end+Developer;Java;Java+%26+Spring+Boot;Kotlin" />
