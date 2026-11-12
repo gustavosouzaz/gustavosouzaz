@@ -13,8 +13,6 @@
 - 📍 Moro no Rio de Janeiro, Brasil.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário IBMR.
 - 💻 Desenvolvedor Full Stack com foco em TypeScript, JavaScript, Node.js e React.
-- 🚀 Já construí plataformas para escolas de música, apps e dashboards, do banco de dados à tela.
-- 🌱 Aprofundando meus estudos em full stack: HTML, CSS, JavaScript, React e Node.js.
 - 🗣️ Português nativo e inglês intermediário.
 - 📫 Aberto a oportunidades como Desenvolvedor Full Stack.
 
