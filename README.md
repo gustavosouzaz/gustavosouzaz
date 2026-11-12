@@ -36,13 +36,6 @@
 
 <img alt="AWS, Docker e Git" src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark" />
 
-### 📌 Projeto em destaque
-
-**ScaleClock**: aplicativo de escalas musicais disponível na
-[Play Store](https://play.google.com/store/apps/details?id=com.scaleclock&hl=pt_BR) e na
-[App Store](https://apps.apple.com/br/app/scaleclock/id1464221197).
-
-Veja mais projetos no [meu portfólio](https://gustavo-desenvolvedor.vercel.app/).
 
 ---
 
